@@ -71,7 +71,7 @@ p{
   background: #fff;
 }
 
-/* #preloader:before {
+#preloader:before {
   content: "";
   position: fixed;
   top: calc(50% - 30px);
@@ -83,7 +83,7 @@ p{
   width: 60px;
   height: 60px;
   animation: animate-preloader 1s linear infinite;
-} */
+}
 
 @keyframes animate-preloader {
   0% {
